@@ -4,7 +4,7 @@ Django project with basic user functionality.
 
 ## Screenshots
 
-| Sign Up | Create an account | Activation |
+| Home | Create an account | Activation |
 | -------|--------------|-----------------|
 | <img src="./screenshots/login.png" width="200"> | <img src="./screenshots/create_an_account.png" width="200"> | <img src="./screenshots/authorized_page.png" width="200"> |
 
