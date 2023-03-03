@@ -6,7 +6,7 @@ Django project with basic user functionality.
 
 | Home | Create an account | Activation |
 | -------|--------------|-----------------|
-| <img src="./screenshots/home.png" width="200"> | <img src="./form.png" width="200"> | <img src="./screenshots/Activation.png" width="200"> |
+| <img src="./screenshots/home.png" width="200"> | <img src="./screenshots/form.png" width="200"> | <img src="./screenshots/Activation.png" width="200"> |
 
 | Email Verification | Log In | Log out |
 | ---------------|------------------|-----------------|
