@@ -6,11 +6,11 @@ Django project with basic user functionality.
 
 | Home | Create an account | Activation |
 | -------|--------------|-----------------|
-| <img src="./screenshots/login.png" width="200"> | <img src="./screenshots/create_an_account.png" width="200"> | <img src="./screenshots/authorized_page.png" width="200"> |
+| <img src="./screenshots/home.png" width="200"> | <img src="./form.png" width="200"> | <img src="./screenshots/Activation.png" width="200"> |
 
 | Email Verification | Log In | Log out |
 | ---------------|------------------|-----------------|
-| <img src="./screenshots/password_reset.png" width="200"> | <img src="./screenshots/set_new_password.png" width="200"> | <img src="./screenshots/password_change.png" width="200"> |
+| <img src="./screenshots/email.png" width="200"> | <img src="./screenshots/login.png" width="200"> | <img src="./screenshots/logout.png" width="200"> |
 
 ## Functionality
 -Sign Up
